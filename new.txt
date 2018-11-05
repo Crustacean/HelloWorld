@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1AAF-A53C
+
+ Directory of C:\Users\elkana.mbiti\eclipse-workspace\Test1\src\Hello
+
+11/05/2018  07:33 PM    <DIR>          .
+11/05/2018  07:33 PM    <DIR>          ..
+11/05/2018  05:23 PM               680 hello.class
+11/05/2018  05:16 PM               176 hello.java
+11/05/2018  07:33 PM                 0 new.txt
+               3 File(s)            856 bytes
+               2 Dir(s)  370,553,995,264 bytes free
